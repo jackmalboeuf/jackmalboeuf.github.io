@@ -1,7 +1,11 @@
 ## Jack Malboeuf
 
 ### Team Game Prototype
-Work as a team to solve a series of puzzles as fast as you can. 
+Work as a team to solve a series of puzzles as fast as you can. At least four players are required for this 2-D puzzle solving game. Many different types of puzzles are used. Players will decide who is best fit for each type. Each game will have five puzzles pulled from a random list that must all be completed. Within each session you must assign the group members to specific tasks to complete that puzzle and move onto the next. Using group dynamic to finish the tasks at a roughly similar time. Certain tasks must be finished before others are started in a puzzle. The team will lose if a task fails completely or if a prerequisite was not fulfilled. Each round will assign a certain number of puzzles to be solved, players will decide how to distribute work the way they see fit. Faster overall completion equals a better score for the team. You win if you successfully complete all five puzzles, but the players decide when they are finished. The score given to the team will measure from 0-100, time and accuracy play huge factors in this score. 
+
+
+
+![Image](src)
 
 You can use the [editor on GitHub](https://github.com/jackmalboeuf/jackmalboeuf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
