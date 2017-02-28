@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Jack Malboeuf
+
+### Team Game Prototype
+Work as a team to solve a series of puzzles as fast as you can. 
 
 You can use the [editor on GitHub](https://github.com/jackmalboeuf/jackmalboeuf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
